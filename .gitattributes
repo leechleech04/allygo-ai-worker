@@ -1,0 +1,13 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# Python packages
+*.whl binary
+
+# Archives
+*.zip binary
